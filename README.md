@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Snigdho,
-- 👀 I’m interested in Front-End Development, SQL queries and Python.
-- 🌱 I’m currently learning Python, C and SQL queries.
+- 👀 I’m interested in SQL and Python.
+- 🌱 I’m currently learning Python, C and SQL.
 - 💞️ I’m looking to collaborate on different kind of projects to enhance my skills.
 - 📫 How to reach me -> Mobile: +91-8794686951, Email: iamsnigdho7@gmail.com
 
